@@ -1,0 +1,6 @@
+/vendor
+**.exe
+local.env
+.env
+.idea/
+*.map4
